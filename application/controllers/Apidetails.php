@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+//this is controller pankaj
 class Apidetails extends CI_Controller
 {
 

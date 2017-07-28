@@ -1,8 +1,8 @@
 <body class="login-page">
 <div class="login-box">
     <div class="logo">
-        <a href="javascript:void(0);">Bus Track</b></a>
-        <small>Login to Review to your Bus Track</small>
+        <a href="javascript:void(0);">Bustracking</b></a>
+        <small>Login to Review to your Bustracking </small>
     </div>
     <div class="card">
         <div class="body">
